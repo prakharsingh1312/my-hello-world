@@ -1,11 +1,11 @@
 # Hacktoberfest First Project
 
-You can use this repo so as to create your first PR for hacktoberfest.
+You can use this repo so as to create your first Pull Request for hacktoberfest.
 
 ## Guidelines
 
 - Create a  folder with your username
-- Add a hello world program in a language of your choice. Think of some creative way to print it.
+- Add a hello world program in a language of your choice. Think of a creative way to print it.
 
 ## Getting Started
 
